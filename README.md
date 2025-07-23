@@ -1,5 +1,5 @@
 # 🧬 BioMorphoRegressor (BMR)
-![](images/Main.png)
+![](Images/Main.png)
 
 > Predict alien morphology from planetary conditions using ML 🌍👽
 
