@@ -1,19 +1,24 @@
-# 🧬 Alien Morphology Predictor
+# 🧬 BioMorphoRegressor (BMR)
 
-> Predict how alien lifeforms might evolve based on planetary atmosphere and environmental conditions 🌍👽
+> Predict alien morphology from planetary conditions using ML 🌍👽
+
 
 Method and idea proposed by Azizjon Achilov, July 2025
 
 
-## 📌 About the Project
+This project introduces **BioMorphoRegressor (BMR)** — a speculative ML-based method for predicting the **morphological structure** of alien lifeforms based on atmospheric and environmental features.
 
-This is a **Machine Learning MVP** that predicts the **morphology of alien creatures**, including:
+BMR takes in a planet’s:
+- oxygen & nitrogen levels
+- UV radiation
+- humidity
+- presence of water
+- estimated organism size
 
-- number of **legs**, **arms**, **eyes**
-- **symmetry**
-- **diet**
-- **skin type**
-- **eye position**
+...and outputs expected biological features like number of limbs, eyes, symmetry, skin type, and more.
+
+It’s a blend of **biological inspiration**, **planetary physics**, and **machine learning logic**.
+
 
 Based on simulated planetary conditions:
 
