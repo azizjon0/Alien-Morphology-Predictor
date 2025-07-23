@@ -3,7 +3,7 @@
 > Predict how alien lifeforms might evolve based on planetary atmosphere and environmental conditions 🌍👽
 
 Method and idea proposed by Azizjon Achilov, July 2025
----
+
 
 ## 📌 About the Project
 
