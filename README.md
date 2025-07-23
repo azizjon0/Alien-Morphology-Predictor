@@ -9,23 +9,14 @@ Method and idea proposed by Azizjon Achilov, July 2025
 This project introduces **BioMorphoRegressor (BMR)** — a speculative ML-based method for predicting the **morphological structure** of alien lifeforms based on atmospheric and environmental features.
 
 BMR takes in a planet’s:
-- oxygen & nitrogen levels
-- UV radiation
-- humidity
-- presence of water
-- estimated organism size
-
-...and outputs expected biological features like number of limbs, eyes, symmetry, skin type, and more.
-
-It’s a blend of **biological inspiration**, **planetary physics**, and **machine learning logic**.
-
-
-Based on simulated planetary conditions:
-
 - 🌬 `oxygen_pct` and `nitrogen_pct`  
 - 🔆 `uv_level` (low / medium / high)  
 - 💧 `humidity` and `water_presence`  
 - 📏 `size_m` — estimated body size in meters  
+
+...and outputs expected biological features like number of limbs, eyes, symmetry, skin type, and more.
+
+It’s a blend of **biological inspiration**, **planetary physics**, and **machine learning logic**.
 
 🧠 **Model:** `RandomForestClassifier` with `MultiOutputClassifier`  
 📊 **Dataset:** 250 augmented samples inspired by modern and Jurassic species under different planetary conditions.
