@@ -58,6 +58,8 @@ planet = {
 pip install -r requirements.txt
 
 ```
+##Then launch the notebook:
+
 jupyter notebook Alien_Model.ipynb
 
 
