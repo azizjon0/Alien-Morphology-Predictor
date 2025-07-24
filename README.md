@@ -85,7 +85,6 @@ jupyter notebook Alien_Model.ipynb
 - Add environmental features like **gravity**, **pressure**, **temperature**
 - Include **planet type** (e.g., gas giant, rocky, desert, oceanic)
 - Predict **intelligence level** or **mobility type**
-- Use **LLMs** or **GANs** to generate alien body designs
 - Build interactive web app (e.g., **Streamlit** or **Gradio**)
 
 ---
